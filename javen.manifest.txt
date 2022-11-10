@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 17.0.5
+Main-Class: com.avion.app.AppMain
+Class-Path: /home/ekn/.m2/repository/junit/junit/4.11/junit-4.11.jar /home/ekn/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar /home/ekn/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar /home/ekn/.m2/repository/log4j/log4j/1.2.12/log4j-1.2.12.jar 
